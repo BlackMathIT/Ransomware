@@ -1,0 +1,17 @@
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\bin\Debug\shiva.exe.config
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\bin\Debug\shiva.exe
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\bin\Debug\shiva.pdb
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\obj\Debug\shiva.ShivaForm.resources
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\obj\Debug\shiva.Properties.Resources.resources
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\obj\Debug\Shiva.csproj.GenerateResource.Cache
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\obj\Debug\shiva.exe
+C:\Dropbox\Projects\Shiva-master\Shiva\Shiva\obj\Debug\shiva.pdb
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\bin\Debug\shiva.exe.config
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\obj\Debug\shiva.exe
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\obj\Debug\shiva.pdb
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\bin\Debug\shiva.exe
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\bin\Debug\shiva.pdb
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\obj\Debug\Shiva.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\obj\Debug\shiva.ShivaForm.resources
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\obj\Debug\shiva.Properties.Resources.resources
+C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva\Shiva\obj\Debug\Shiva.csproj.GenerateResource.Cache
