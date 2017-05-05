@@ -9,8 +9,8 @@
  * Sends encryption key to a server.
  * Encrypted files can be decrypt in decrypter program with encryption key.
  * Creates a Html file with given message.
- * Small file size (210 KB)
  * Autodelete itself at the end of execution
+ * Small file size (210 KB)
  * 
  * This is a free software, Shiva is distribuited in the hope that will be
  * useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
