@@ -1,10 +1,4 @@
-/*
-  _________ ___ ___ ._______   _________   
- /   _____//   |   \|   \   \ /   /  _  \  
- \_____  \/    ~    \   |\   Y   /  /_\  \ 
- /        \    Y    /   | \     /    |    \
-/_______  /\___|_  /|___|  \___/\____|__  /
-        \/       \/                     \/ 
+ * SHIVA RANSOMWARE
  * 
  * Coded by r00tk4 - Full /  / blackmath.it 
  * 
@@ -22,4 +16,4 @@
  * or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more detail
  * 
  * We are not responsible for any direct or indirect damage caused due to bad use of it.
- */
+ 
