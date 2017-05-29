@@ -100,12 +100,12 @@ namespace shiva_decrypter
 
         public void DecryptDirectory(string location)
         {
-            
+            try
+            { 
                 string password = textBox1.Text;
                 string[] files = Directory.GetFiles(location);
                 string[] childDirectories = Directory.GetDirectories(location);
-            try
-            {    
+               
                 for (int i = 0; i < files.Length; i++)
                 {
                     string extension = Path.GetExtension(files[i]);
@@ -120,7 +120,7 @@ namespace shiva_decrypter
                     File.Delete(childDirectories[i] + "\\READ_IT.html");
                     
                 }
-                label3.Visible = true;
+                
             }
             catch (Exception e) { 
             
@@ -130,33 +130,24 @@ namespace shiva_decrypter
         private void button1_Click(object sender, EventArgs e)
         {
              //Decrypt Local disk
-            string path = "\\Desktop\\test";
-            string fullpath = userDir + userName + path;
-            DecryptDirectory(fullpath);
+            string path = "C:\\";
+            DecryptDirectory(path);
             try
             {
-                File.Delete(fullpath + "\\READ_IT.html");
+                File.Delete(path + "READ_IT.html");
             }
             catch (Exception exc) { }
 
-            //Decrypt network disks
+            //Decrypt local and network disks
             string serverName = Environment.GetEnvironmentVariable("computername");
             List<string> shares = GetNetworkShareFoldersList(serverName);
             foreach (string share in shares)
             {
                 DecryptDirectory(share + "\\");
-
             }
+            label3.Visible = true;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }

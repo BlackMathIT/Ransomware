@@ -1,22 +1,8 @@
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe.config
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.pdb
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva_decrypter.Form1.resources
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva_decrypter.Properties.Resources.resources
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\Shiva-decrypter.csproj.GenerateResource.Cache
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.exe
-C:\Users\user1\Documents\Visual Studio 2012\Projects\hidden-tear-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.pdb
-C:\Users\user1\Documents\Visual Studio 2012\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe.config
-C:\Users\user1\Documents\Visual Studio 2012\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.exe
-C:\Users\user1\Documents\Visual Studio 2012\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.pdb
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe.config
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.exe
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.pdb
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva_decrypter.Form1.resources
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva_decrypter.Properties.Resources.resources
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\obj\Debug\Shiva-decrypter.csproj.GenerateResource.Cache
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe
-C:\Dropbox\Projects\Shiva-master\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.pdb
-C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe.config
-C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.exe
-C:\Users\user1\Desktop\Shiva-master_definitivo\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.pdb
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe.config
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.exe
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\bin\Debug\shiva-decrypter.pdb
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva_decrypter.Form1.resources
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva_decrypter.Properties.Resources.resources
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\obj\Debug\Shiva-decrypter.csproj.GenerateResource.Cache
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.exe
+C:\Dropbox\Projects\Shiva\Shiva-decrypter\Shiva-decrypter\obj\Debug\shiva-decrypter.pdb
